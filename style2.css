@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #6EACDA;
+    background-color: #222831;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #E3FDFD;
+    font-size: 28px;
+    text-align: center;
+}
+h2 {
+    color: #71C9CE;
+    font-size: 22px;
+    text-align: center;
+    font-style: italic;
+}
+a {
+    color: #00ADB5;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+    
+}
+a:hover {
+    color:#E2E2B6;
+}
+p {
+   text-align: center; 
+   font-weight: bold;
+}
+ul{
+    list-style-type:none;
+    margin:75px;
+    padding:10px;
+    text-align: center;
+ } 
+li{
+    display:inline;
+ }

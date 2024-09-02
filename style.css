@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #6EACDA;
+    background-color: #222831;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #E3FDFD;
+    font-size: 28px;
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #EEEEEE;
+    padding: 0px;
+    margin: 0px;
+
+}
+.navbar a{
+    color: #00ADB5;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover {
+    background-color:#222831;
+}
+h3 {
+    color: #71C9CE;
+    font-size: 22px;
+    text-align: center;
+    font-style: italic;
+}
+p {
+   text-align: center; 
+   font-weight: bold;
+}
